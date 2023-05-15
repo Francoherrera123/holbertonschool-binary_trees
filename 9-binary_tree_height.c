@@ -5,7 +5,7 @@
  * @is_first: 0 - Isn't first node | 1 - Is first node
  * Return: return height of a binary tree
  */
-size_t binary_tree_height_r(const binary_tree_t *tree, int is_first)
+size_t binary_tree_height(const binary_tree_t *tree)
 {
 	int i = 0, j = 0;
 
