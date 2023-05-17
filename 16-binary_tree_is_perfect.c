@@ -1,4 +1,6 @@
 #include "binary_trees.h"
+#include "9-binary_tree_height.c"
+#include "12-binary_tree_leaves.c"
 /**
  * binary_tree_is_perfect - fuction that check if a tree is perfect
  * @tree: data
